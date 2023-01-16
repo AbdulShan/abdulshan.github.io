@@ -12,7 +12,8 @@
         <a id="menu-link-design" href="/writing">Writing</a>
         <a id="contact-link" href="/contact">Contact</a>
     </nav>
-
 </div>
+
+
 </body>
 </html>
