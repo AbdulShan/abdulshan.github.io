@@ -14,6 +14,11 @@
     </nav>
 </div>
 
+<div>
+    <h2 id="hi-font">Hi, I am Shan</h2>
+    <h1 id="profession-font">Software developer,<br> Analyst,<br>Student. </h1>
+
+</div>
 
 </body>
 </html>
