@@ -49,6 +49,7 @@
     position: relative;
     left: 500;
     top: 120;
+    text-decoration: none;
 }   
 
 #profession-font{
@@ -59,4 +60,5 @@
     position: relative;
     left: 500;
     top: 120;
+    text-decoration: none;
 }
